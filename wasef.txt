@@ -1,2 +1,2 @@
 this is file of wasef.txt
-ifle creation is complted .
+file creation is complted .
